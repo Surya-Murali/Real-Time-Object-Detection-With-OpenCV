@@ -45,7 +45,7 @@ system_profiler SPCameraDataType
 system_profiler SPCameraDataType | grep "^    [^ ]" | sed "s/    //" | sed "s/://"
 ```
 
-**Step 5:** To start your video stream and for detecting objects in real-time, run the following command:
+**Step 5:** To start your video stream and real-time object detection, run the following command:
 
 ```
 python real_time_object_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel
