@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: imutils
+Version: 0.5.3
+Summary: A series of convenience functions to make basic image processing functions such as translation, rotation, resizing, skeletonization, displaying Matplotlib images, sorting contours, detecting edges, and much more easier with OpenCV and both Python 2.7 and Python 3.
+Home-page: https://github.com/jrosebr1/imutils
+Author: Adrian Rosebrock
+Author-email: adrian@pyimagesearch.com
+License: UNKNOWN
+Download-URL: https://github.com/jrosebr1/imutils/tarball/0.1
+Description: UNKNOWN
+Keywords: computer vision,image processing,opencv,matplotlib
+Platform: UNKNOWN
