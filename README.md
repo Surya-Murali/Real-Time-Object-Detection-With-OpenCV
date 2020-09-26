@@ -56,7 +56,6 @@ python real_time_object_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt
 ```
 python real_time_object_detection.py --help
 ```
-(or you can contact me)
 
 ### References and Useful Links
 
